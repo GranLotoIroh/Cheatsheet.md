@@ -10,10 +10,15 @@ Se pueden crear hasta encabezado 6, a partir de ahí deja de contar  como encabe
 
 ## Modificadores de texto
 **Negrita**: Dos asteriscos al empezar y acabar el texto **palabra**.
+
 **Cursiva**: Un asterisco al empezar y acabar el texto *palabra*. También sirve encapsular el contenido entre barras bajas _palabra_
+
 **Tachado**: Doble "~" al principio y al final ~~palabra~~.
+
 **Subrayado**: Encapsular el contenido entre barras bajas _palabra_
+
 **Resaltado**: Doble "=" al empezar y acabar el texto  ==palabra==.
+
 **Línea divisoria**: Triple guión "---" en una linea en blanco. En caso de ponerlo justo debajo de una frase, resaltará esa frase en el editor de texto aunque cuando se exporte ésta mantendrá su tamaño original. 
 
 ---
